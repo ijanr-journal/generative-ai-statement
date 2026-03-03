@@ -1,1 +1,1 @@
-# generative-ai-statement
+# Generative AI Statement - IJANR
