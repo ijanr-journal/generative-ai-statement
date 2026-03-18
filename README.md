@@ -9,7 +9,7 @@ This 2026, as a university-based journal, we have been consulting and checking w
 
 Generative AI:  Group of AI algorithms and models that are capable of producing **new content**, including texts, images, videos and, problem-solving strategies, with human-like creativity and adaptability (He et al., 2025)
 
-Prompt engineering: Process of instructing AI or, more precisely, it is the skill and practice of writing inputs (“prompts”) for generative models (Oppenlaender et al. 2023)
+Prompt engineering: Process of instructing AI or, more precisely, it is the skill and practice of writing inputs (“prompts”) for generative models (Oppenlaender et al., 2023)
 
 ## Guidelines for authors
 
@@ -39,16 +39,16 @@ As IJANR, we commit to ensuring a peer-review process where:
 
 ## References
 
-1. He, R., Cao, J., & Tan, T. (2025). Generative artificial intelligence: a historical perspective. National Science Review, 12(5). https://doi.org/10.1093/nsr/nwaf050
+1. He, R., Cao, J. & Tan, T. (2025). Generative artificial intelligence: a historical perspective. National Science Review, 12(5). https://doi.org/10.1093/nsr/nwaf050
 
-2. Oppenlaender, J., Linder, R., & Silvennoinen, J. (2023). Prompting AI Art: An Investigation into the Creative Skill of Prompt Engineering (Version 3). arXiv. https://doi.org/10.48550/ARXIV.2303.13534
+2. Oppenlaender, J., Linder, R. & Silvennoinen, J. (2023). Prompting AI Art: An Investigation into the Creative Skill of Prompt Engineering (Version 3). arXiv. https://doi.org/10.48550/ARXIV.2303.13534
 
 3. Using AI responsibly in scientific publishing. (2026). Nature Methods, 23(2), 271–271. https://doi.org/10.1038/s41592-026-03020-1
 
 4. Latin American Publicações. (s. f.). Statement of generative AI.
 https://ojs.latinamericanpublicacoes.com.br/ojs/index.php/jdev/statementofgenerativeai
 
-5. Padgham, M., Ross, N., Salmon, M., Bellini Saibene, Y., Lepore, M., Riederer, E., Helske, J., & Rodriguez-Sanchez, F. (2026, febrero 26). Software review in the era of AI: What we are testing at rOpenSci. rOpenSci.
+5. Padgham, M., Ross, N., Salmon, M., Bellini Saibene, Y., Lepore, M., Riederer, E., Helske, J. & Rodriguez-Sanchez, F. (2026, febrero 26). Software review in the era of AI: What we are testing at rOpenSci. rOpenSci.
 https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/
 
 6. Wiley. (s. f.). AI principles.
@@ -59,7 +59,7 @@ https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-a
 
 8. Emmanuel, O. C. (2025). Impact of artificial intelligence (AI) on the quality, efficiency, and transparency of the scholarly publishing process. Trends in Scholarly Publishing, 4(1), 15–21. https://doi.org/10.21124/tsp.2025.15.21
 
-9. Bridgeford, E. W., Campbell, I., Chen, Z., Lin, Z., Ritz, H., Vandekerckhove, J., & Poldrack, R. A. (2025). Ten simple rules for AI-assisted coding in science. arXiv. https://doi.org/10.48550/arXiv.2510.22254
+9. Bridgeford, E. W., Campbell, I., Chen, Z., Lin, Z., Ritz, H., Vandekerckhove, J. & Poldrack, R. A. (2025). Ten simple rules for AI-assisted coding in science. arXiv. https://doi.org/10.48550/arXiv.2510.22254
 
 
 
