@@ -1,5 +1,16 @@
 # Generative AI Statement - IJANR
 
+## Editorial Team - IJANR 
+
+- Sara Acevedo [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+)](https://orcid.org/0000-0003-3203-2106)
+- Valentina Lopresti [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+)](https://orcid.org/0009-0009-9808-5834)
+- Eduardo Olate [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+)](https://orcid.org//0009-0003-7163-2785)
+- Andrés Schwember [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+)](https://orcid.org/0000-0003-1862-3110)
+
 ## Introduction
 Since the emergence of LLM platforms such as ChatGPT, Claude, DeepSeek, Perplexity, Gemini, and others, we (Editorial Team) at the journal have been asking ourselves: How does this affect our workflow, our ethical approach, and our originality? Also, how is the privacy of authors and their data protected in these tools? These are difficult questions to answer. 
 
@@ -66,5 +77,7 @@ https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-a
 
 10. Bridgeford, E. W., Campbell, I., Chen, Z., Lin, Z., Ritz, H., Vandekerckhove, J. & Poldrack, R. A. (2025). Ten simple rules for AI-assisted coding in science. arXiv. https://doi.org/10.48550/arXiv.2510.22254
 
+## Contributing
+Any comments? Any suggestions? Please submit a pull request or [email](mailto:ijanr@uc.cl)
 
 
